@@ -1,0 +1,45 @@
+Order ID,Customer ID,Customer Name,Email,Customer Since,Order Date,Delivery Date,Age,Gender,Location,Product,Category,Quantity,Unit Price,Currency,Discount (%),Total Amount,Weight,Temperature,Payment Method,Returned,Return Reason,Satisfaction Score,Sales Channel,Notes
+ORD-1001,CUS-2011,Daniel Brown,alice@email.com,2021-07-14,01/15/2024,2024-09-08,22,Male,"Los Angeles, CA, USA",Chocolate Box,Food,2,18.5,USD,0,37.0,2400 g,18 C,Credit Card,FALSE,,5,Phone,
+ORD-1002,CUS-2019,Daniel Brown,alice@email.com,2022-05-14,2024-02-03,2024-10-24,thirty,Female,New York - NY - USA,Running Shoes,Sports,1,120.0,USD,20,96.0,0.8 kg,N/A,Bank Transfer,FALSE,,3,Store,
+ORD-1003,CUS-2019,Daniel Brown,alice@email.com,2022-05-14,03-18-2024,2024-10-08,,Unknown,Denver / CO / USA,Office Chair,Furniture,1,210.0,USD,0,210.0,350 g,N/A,Cash,FALSE,,2,Store,priority customer
+ORD-1004,CUS-2003,Brian Smith,grace@email.com,2022-06-05,18 Apr 2024,2024-12-19,49,Prefer not to say,"Miami, FL",Milk 1L,Food,two,4.2,USD,15,7.14,13 kg,4 C,Credit Card,FALSE,,1,Mobile App,gift order
+ORD-1005,CUS-2023,Alice Johnson,emily@email.com,2024-05-23,2024/05/21,2024-02-07,42,Non-binary,"Seattle, WA, United States",Bluetooth Speaker,Electronics,2,55.0,USD,15,93.5,1050 g,N/A,,TRUE,Damaged,4,Mobile App,priority customer
+ORD-1006,CUS-2020,Grace Wilson,grace@email.com,2024-02-06,31/31/2024,2024-05-12,46,Prefer not to say,Boston MA USA,Running Shoes,Sports,2,$89.90,USD,0,240.0,0.8 kg,39 F,Bank Transfer,FALSE,N/A,3,Store,call before delivery
+ORD-1007,CUS-2018,Brian Smith,carla@email.com,2022-04-22,2024-11-13,before order,32,Female,"Chicago, IL, US",Milk 1L,Food,3,4.2,USD,15,10.71,1.05 kg,4 C,PayPal,FALSE,,,Store,gift order
+ORD-1008,CUS-2010,Alice Johnson,henry@email.com,2022.07.14,2024-10-19,2024-10-23,43,Female,"Austin, TX, USA",Coffee Maker,Appliances,1,89.9,USD,10%,76.42,2.4 kg,N/A,PayPal,FALSE,,4,Online,priority customer
+ORD-1009,CUS-2003,Brian Smith,grace@email.com,2022-06-05,2024-06-20,2024-06-22,19,Female," Los Angeles , CA , USA ",Office Chair,,2,210.0,USD,5,399.0,13.0 kg,N/A,Debit Card,FALSE,,5,Phone,priority customer
+ORD-1010,CUS-2021,Henry Taylor,henry@email.com,2023-02-05,2024-08-04,2024-08-06,24,Non-binary,,Cofee Maker,Food,1,4.2,USD,20,one hundred,1.05 kg,4 C,Cash,TRUE,Changed mind,4,Store,
+ORD-1011,CUS-2007,Emily Davis,frank@email.com,2022-06-25,2024-09-10,2024-09-17,32,Non-binary,"New York, CA, USA",Bluetooth Speker,Electronics,1,55.0,,20,44.0,0.6 kg,N/A,Debit Card,FALSE,,5,Store,priority customer
+ORD-1012,CUS-2013,Emily Davis,henry@email.com,2023-04-23,2024-06-24,2024-06-26,56,Non-binary,Miami - FL - US,Office Chair,Electroncs,1,210.0,USD,20,168.0,13.0 kg,N/A,PayPal,yes,,3,Mobile App,
+ORD-1013,CUS-2008,Henry Taylor,frank@email.com,2021-11-04,2024-06-07,2024-06-12,42,Male,Denver CO USA,Running Shoes,Sports,1,120.0,USD,15,102.0,0.8 kg,N/A,Credt Card,FALSE,,2,,gift order
+ORD-1014,CUS-2003,Brian Smith,grace@email.com,2022-06-05,2024-12-06,2024-12-09,57,Prefer not to say,Seattle / WA / USA,Notebook,Stationery,2,7.5,USD,15,12.75,0.2 kg,N/A,paypal,No,,2,Store,
+ORD-1015,CUS-2001,Daniel Brown,emily@email.com,2022-10-11,2024-04-07,2024-04-09,34,Prefer not to say,"Boston, MA, United States",Running Shoes,Sports,2,120.0,USD,,228.0,0.8 kg,N/A, credit card ,FALSE,,1,Mobile App,call before delivery
+ORD-1016,CUS-2022,Henry Taylor,carla@email.com,2021-03-06,2024-09-05,2024-09-11,27,Femail,"Los Angeles, CA, USA",Notebook,Stationery,4,7.5,USD,20,24.0,0.2 kg,N/A,Bank Transfer,FALSE,,five,Online,gift order
+ORD-1017,CUS-2022,Henry Taylor,carla@email.com,2021-03-06,2024-04-07,2024-04-11,38,male ,New York - NY - USA,Yoga Mat,Sports,4,35.0,USD,0,,0.9 kg,N/A,Cash,FALSE,,4,Phone,priority customer
+ORD-1018,CUS-2023,Alice Johnson,emily@email.com,2024-05-23,2024-03-14,2024-03-16,31,Non-binary,Denver / CO / USA,Milk 1L,Food,2,4.2,USD,5,7.98,1.05 kg,4 C,Credit Card,TRUE,Changed mind,2,mob app,priority customer
+ORD-1019,CUS-2009,Carla Mendes,grace@email.com,2021-03-09,2024-07-16,2024-07-19,-5,Non-binary,"Miami, FL",Chocolate Box,Food,2,18.5,USD,5,35.15,0.35 kg,18 C,Cash,FALSE,,1,Mobile App,
+ORD-1020,CUS-2011,Daniel Brown,alice@email.com,2021-07-14,2024-06-17,2024-06-23,150,Non-binary,"Seattle, WA, United States",Yoga Mat,Sports,2,35.0,USD,0,70.0,0.9 kg,N/A,Credit Card,FALSE,,2,Mobile App,priority customer
+ORD-1021,CUS-2014,Alice Johnson,carla@email.com,2024-02-09,,2024-12-13,19,Female,Boston MA USA,Milk 1L,Food,2,4.2,USD,5,7.98,1.05 kg,4 C,Cash,FALSE,,1,Store,
+ORD-1022,CUS-2009,Carla Mendes,grace@email.com,2021-03-09,2024-09-14,2024-09-18,21,Male,"Chicago, IL, US",Running Shoes,Sports,0,120.0,USD,0,240.0,0.8 kg,N/A,Debit Card,FALSE,,3,Mobile App,priority customer
+,CUS-2010,Alice Johnson,henry@email.com,2022.07.14,2024-06-01,2024-06-05,33,Prefer not to say,"Austin, TX, USA",Yoga Mat,Sports,2,35.0,USD,5,66.5,0.9 kg,N/A,Credit Card,FALSE,,4,Phone,call before delivery
+ORD-1024,CUS-2017,Grace Wilson,frank@email.com,2021-03-01,2024-06-07,2024-06-14,22,Non-binary," Los Angeles , CA , USA ",Milk 1L,Food,-2,4.2,USD,5,11.97,1.05 kg,4 C,PayPal,FALSE,,2,Online,
+ORD-1025,CUS-2022,Henry Taylor,carla@email.com,2021-03-06,2024-10-08,2024-10-15,46,Female,,Notebook,Stationery,4,-10.0,USD,20,24.0,0.2 kg,N/A,Cash,FALSE,,3,Mobile App,gift order
+ORD-1026,CUS-2008,Henry Taylor,frank@email.com,2021-11-04,2024-03-01,2024-03-05,67,Female,"New York, CA, USA",Coffee Maker,Appliances,1,89.9,USD,0.15,85.41,2.4 kg,N/A,Credit Card,TRUE,Damaged,3,Online,priority customer
+ORD-1027,CUS-2013,Emily Davis,henry@email.com,2023-04-23,2024-05-21,2024-05-24,27,Non-binary,Miami - FL - US,Coffee Maker,Appliances,2,89.9,USD,15%,179.8,2.4 kg,N/A,Bank Transfer,FALSE,,8,Online,call before delivery
+ORD-1028,CUS-2024,Brian Smith,alice@email.com,2021-03-21,2024-11-19,2024-11-26,41,Female,Denver CO USA,Milk 1L,Food,2,18.5,USD,20,29.6,0.35 kg,40 C,PayPal,FALSE,,4,Online,
+ORD-1029,CUS-2021,Henry Taylor,henry@email.com,2023-02-05,2024-08-03,2024-08-10,33,Male,Seattle / WA / USA,Running Shoes,Food,2,210.0,USD,10,378.0,13.0 kg,N/A,Debit Card,FALSE,,4,Phone,call before delivery
+ORD-1030,CUS-2003,Brian Smith,grace@email.com,2022-06-05,2024-10-21,2024-10-28,65,Non-binary,"Boston, MA, United States",Yoga Mat,Sports,3,35.0,USD,10,94.5,0.9 kg,N/A,Bank Transfer,FALSE,,5,Store,
+ORD-1031,CUS-2016,Emily Davis,henry@email.com,2024-08-25,2024-12-07,2024-12-14,25,Male,"Los Angeles, CA, USA",Coffee Maker,Appliances,2,89.9,USD,10,161.82,2.4 kg,N/A,Cash,FALSE,Damaged,1,Phone,
+ORD-1032,CUS-2010,Alice Johnson,henry@email.com,2022.07.14,2024-05-13,2024-05-16,34,Non-binary,New York - NY - USA,Yoga Mat,Sports,1,35.0,USD,20,28.0,0.9 kg,N/A,Debit Card,TRUE,,5,Mobile App,
+ORD-1033,CUS-2023,Alice Johnson,emily@email.com,2024-05-23,2024-01-10,2024-01-05,27,Prefer not to say,Denver / CO / USA,Bluetooth Speaker,Electronics,1,55.0,USD,15,46.75,0.6 kg,N/A,Cash,FALSE,,4,Mobile App,
+ORD-1034,CUS-2011,Daniel Brown,alice@email.com,2021-07-14,2024-02-07,2024-02-14,42,Female,"Miami, FL",Coffee Maker,Appliances,1,89.9,USD,10,9999.99,2.4 kg,N/A,Cash,FALSE,,4,Mobile App,
+ORD-1035,CUS-2009,Carla Mendes,grace@email.com,2021-03-09,2024-04-09,2024-04-14,58,Prefer not to say,"Seattle, WA, United States",Running Shoes,Sports,1,120.0,USD,10,108.0,0.8 kg,N/A,Bank Transfer,FALSE,,5,Store,
+ORD-1036,CUS-2002,Marta GonÃ§alves,carla@email.com,2024-07-11,2024-11-10,2024-11-15,36,Non-binary,Boston MA USA,Notebook,Stationery,2,7.5,USD,20,12.0,0.2 kg,N/A,Cash,FALSE,,3,Phone,priority customer
+ORD-1037,CUS-2010,Alice Johnson,henry@email.com,2022.07.14,2024-03-21,2024-03-24,66,Prefer not to say,"Chicago, IL, US",Yoga Mat,Sports,2,35.0,USD,15,59.5,0.9 kg,N/A,PayPal,FALSE,,2,Store,Package arrived with â€™strange smellâ€™
+ORD-1038,CUS-2003,Brian Smith,grace@email.com,2022-06-05,2024-06-08,2024-06-12,65,Male,"Austin, TX, USA",Chocolate Box,Food,1,18.5,USD,20,14.8,0.35 kg,18 C,PayPal,FALSE,,3,Mobile App,
+ORD-1039,CUS-2016,Emily Davis,henry@email.com,2024-08-25,2024-11-17,2024-11-23,59,Prefer not to say," Los Angeles , CA , USA ",Milk 1L,Food,2,4.2,USD,10,7.56,1.05 kg,4 C,PayPal,FALSE,,3,Online,priority customer
+ORD-1040,CUS-2002,Marta GonÃ§alves,carla@email.com,2024-07-11,2024-01-03,2024-01-08,51,Female,,Notebook,Stationery,3,7.5,USD,15,19.12,0.2 kg,N/A,PayPal,TRUE,Changed mind,1,Online,
+ORD-1041,CUS-2026,Emily Davis,grace@email.com,2021-02-03,2024-11-23,2024-11-27,37,Male,"New York, CA, USA", Notebook ,Food,1,18.5,USD,20,14.8,0.35 kg,18 C,PayPal,FALSE,,3,Store,
+ORD-1042,CUS-2001,Daniel Brown,emily@email.com,2022-10-11,2024-11-08,2024-11-13,37,Female,Miami - FL - US,Milk 1L, stationery ,2,4.2,USD,10,7.56,1.05 kg,4 C,Credit Card,FALSE,,2,Phone,call before delivery
+ORD-1001,CUS-2011,Daniel Brown,alice@email.com,2021-07-14,01/15/2024,2024-09-08,22,Male,Denver CO USA,Chocolate Box,Food,2,18.5,USD,0,37.0,0.35 kg,18 C,Credit Card,FALSE,,5,Phone,
+ ORD-1002 ,CUS-2019,Daniel Brown,alice@email.com,2022-05-14,2024-02-03,2024-10-24,thirty,Female,Seattle / WA / USA,Running Shoes,Sports,1,120.0,USD,20,96.0,0.8 kg,N/A,Bank Transfer,FALSE,,3,Store,
