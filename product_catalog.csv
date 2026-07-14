@@ -1,0 +1,8 @@
+product,category,unit_price,weight_kg,temperature_c
+Chocolate Box,Food,18.5,2.4,18.0
+Running Shoes,Sports,120.0,0.8,18.0
+Office Chair,Furniture,210.0,13.0,18.0
+Milk 1L,Food,4.2,1.05,4.0
+Bluetooth Speaker,Electronics,55.0,0.6,18.0
+Coffee Maker,Appliances,89.9,2.4,18.0
+Notebook,Stationery,7.5,0.2,18.0
